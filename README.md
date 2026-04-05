@@ -1,5 +1,5 @@
 
-content = """# 🚗 Parking Management System in C
+# 🚗 Parking Management System in C
 
 ## 📌 Overview
 The Parking Management System is a command-line application developed in the C programming language that simulates real-time vehicle parking operations. The system efficiently manages parking slots, validates vehicle details, prevents duplicate entries, calculates parking duration, and generates billing based on time spent.
